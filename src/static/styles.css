@@ -178,3 +178,19 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+.unregister-button {
+  background-color: #c62828;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  font-size: 12px;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+  margin-left: 10px;
+}
+
+.unregister-button:hover {
+  background-color: #b71c1c;
+}
